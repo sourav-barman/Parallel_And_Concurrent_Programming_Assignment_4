@@ -1,7 +1,7 @@
 # Parallel_And_Concurrent_Programming_Assignment_4
 ================================================================================
   CS5300 -- Parallel and Concurrent Programming
-  Programming Assignment 4: Spin Lock Performance Evaluation
+  Programming Assignment 4: Performance Evaluation of Various Spin Lock Algorithms TAS, TTAS, CLH, MCS
   README
 ================================================================================
 
