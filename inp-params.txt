@@ -1,0 +1,6 @@
+N 100
+K 50
+lamda1 10
+lamda2 20
+pl 0.6
+pi 0.8
